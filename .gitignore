@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine (Java)/task/build/
+/Simple Search Engine (Java)/task/out/
+/Simple Search Engine (Java)/task/out/production/classes/
+/Topics/Strategy/Pick your team/out/
+/Topics/Strategy/Pick your team/out/production/classes/
+/Topics/Template method/Career/out/
+/Topics/Template method/Career/out/production/classes/
+/Topics/Template method/Template Method/out/
+/Topics/Template method/Template Method/out/production/classes/
